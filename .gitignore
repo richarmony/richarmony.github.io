@@ -1,2 +1,5 @@
 _site
 .DS_Store
+docs/LICENSE
+docs/jekyll-theme-time-machine.gemspec
+docs/thumbnail.png
