@@ -2,124 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
+Welcome to my personal page. I'm Ricardo Cuevas. I’m a Mechatronics Engineer with PhD Computer Science studies, based in Mexico City. Through the years I’ve had the opportunity to work in diverse areas such as web development, industrial scales service engineer, automotive product design, as a researcher, teacher, musician and even as an Uber Driver. Each job has had new challenges and has helped me appreciate life from different new perspectives.
 
-[Link to another page](./another-page.html).
+## Table of Contents
+<!-- TODO: make some of these within the same page -->
+<!-- * [Education](./education.html).
+* [Certificates](./certificates.html).
+* [Research Papers](./another-page.html). -->
+[Markdown Reference](./markdown-reference.html).
+<!-- [Link to another page](./another-page.html). -->
+<!-- [FisherVector Research Status](./research-status.html). -->
 
-[FisherVector Research Status](./research-status.html).
+## Education
 
-There should be whitespace between paragraphs.
+Degree | Dates |Institution
+---------|----------|---------
+ Mechatronics Engineer |  Aug 2005 – Dec 2009| Tecnológico de Monterrey, Campus Estado de Mexico
+ Transport network Modeling and Simulation|  Aug 2012 | Massachussets Institute of Technology, Boston
+ PhD. Computer Science – Computer Vision|Aug 2010 – Dec 2019| Tecnológico de Monterrey, Campus Estado de Mexico 
+ <!-- A | B | C -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- ## Additional Trainnings
 
-# Header 1
+Date | Title | Certificate URL
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3 -->
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!-- ## Professional Experience
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3 -->
