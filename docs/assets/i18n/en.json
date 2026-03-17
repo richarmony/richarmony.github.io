@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Home",
+    "resume": "Resume",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "headline": "Senior Fullstack Developer",
+      "subheadline": "6+ years delivering enterprise systems",
+      "location": "Mexico City, Mexico",
+      "cta_primary": "View Experience",
+      "cta_secondary": "Get in Touch"
+    },
+    "about": {
+      "title": "About Me",
+      "paragraph1": "I'm a Mechatronics Engineer with PhD studies in Computer Science, specializing in fullstack development for enterprise applications. With over 6 years of professional experience, I've built scalable solutions for consulting, SaaS, and fintech industries.",
+      "paragraph2": "My career includes delivering high-impact systems at KPMG Technologies (fraud detection systems, cybersecurity dashboards) and SayVU Technologies (real-time video platforms, indoor location tracking, dynamic database architecture). I excel at solving complex technical challenges, from modernizing legacy codebases to architecting new features from the ground up.",
+      "paragraph3": "Core strengths: Complex problem resolution, database and system architecture design, code review and best practices implementation, and legacy system modernization."
+    },
+    "highlights": {
+      "experience": "Enterprise Development Experience",
+      "stack": "Full Stack Expertise",
+      "industries": "Consulting, SaaS, FinTech"
+    }
+  },
+  "resume": {
+    "page_title": "Professional Experience & Skills",
+    "page_subtitle": "A comprehensive overview of my career, expertise, and continuous learning journey",
+    "experience": {
+      "title": "Professional Experience",
+      "achievements": "Key Achievements:",
+      "sayvu": {
+        "location": "Mexico City, Mexico (Remote)",
+        "description": "Core development team for enterprise SaaS video communication platform",
+        "achievement1": "Maintained and debugged <strong>legacy codebase</strong> (Angular.js, Node.js, CSS, HTML), resolving critical production issues and ensuring platform stability",
+        "achievement2": "Built <strong>real-time video call notification system</strong> integrating Agora API with existing architecture, enabling instant push notifications",
+        "achievement3": "Designed and implemented <strong>dynamic forms database schema</strong> (SQL, UML) with response persistence capability, supporting customizable data collection workflows",
+        "achievement4": "Created <strong>indoor location tracking interface</strong> using Angular with modern component architecture, improving user experience and maintainability",
+        "achievement5": "Automated <strong>bulk user management</strong> via Excel import scripts (Node.js, SQL) processing 10,000+ users, reducing manual workload",
+        "achievement6": "Developed <strong>PDF report generation feature</strong> running client-side in browser using Angular.js, eliminating server load and improving performance",
+        "achievement7": "Developed <strong>SQL audit scripts</strong> to identify and clean database inconsistencies, improving data integrity"
+      },
+      "kpmg": {
+        "location": "Mexico City, Mexico",
+        "description": "IT consulting for diverse enterprise projects across financial and cybersecurity domains",
+        "achievement1": "Developed fraud detection system using Python, FastAPI, and Django for financial transactions analysis, improving threat detection accuracy",
+        "achievement2": "Built cybersecurity metrics dashboard with Node.js for real-time threat monitoring, providing actionable insights to security teams",
+        "achievement3": "Consulted multiple clients on fullstack architecture and implementation, delivering tailored solutions aligned with business requirements"
+      },
+      "itym": {
+        "location": "Mexico City, Mexico",
+        "description": "Develop and maintain the company webpage for marketing and payment system via Stripe integration.",
+        "achievement1": "Developed company webpage using modern web technologies, enhancing user experience and online presence",
+        "achievement2": "Integrated Stripe payment system for seamless online transactions, improving customer satisfaction and revenue"
+      }
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "languages": {
+        "title": "Programming Languages"
+      },
+      "frontend": {
+        "title": "Frontend Technologies"
+      },
+      "backend": {
+        "title": "Backend Technologies"
+      },
+      "databases": {
+        "title": "Databases"
+      },
+      "cloud": {
+        "title": "Cloud & DevOps"
+      },
+      "tools": {
+        "title": "Tools & Integrations"
+      },
+      "level": {
+        "expert": "Expert",
+        "advanced": "Advanced",
+        "intermediate": "Intermediate"
+      },
+      "competencies": {
+        "title": "Senior Competencies",
+        "problem": "Complex Problem Resolution",
+        "architecture": "Database & System Architecture Design",
+        "review": "Code Review & Best Practices",
+        "modernization": "Legacy System Modernization"
+      }
+    },
+    "education": {
+      "title": "Education",
+      "phd": {
+        "research": "Research focus: Computer Vision - Fisher Vector methodologies for image recognition systems"
+      }
+    },
+    "certifications": {
+      "title": "Professional Certifications",
+      "issued": "Issued:",
+      "expires": "Expires:",
+      "no_expiry": "Doesn't Expire",
+      "verify": "Verify Certificate →"
+    },
+    "certificates": {
+      "title": "Continuous Learning",
+      "subtitle": "Selected completion certificates from ongoing professional development",
+      "table": {
+        "date": "Date",
+        "platform": "Platform",
+        "title": "Course Title"
+      }
+    },
+    "cta": {
+      "title": "Interested in working together?",
+      "download": "Download Resume PDF",
+      "contact": "Let's Talk →",
+      "coming_soon": "PDF resume coming soon. Please contact me directly for an updated copy."
+    }
+  },
+  "projects": {
+    "page_title": "Projects",
+    "page_subtitle": "Showcasing selected work and technical implementations",
+    "empty": {
+      "title": "Project Showcase Coming Soon",
+      "message": "I'm currently working on showcasing selected professional projects. Check back soon!",
+      "cta_text": "In the meantime, feel free to view my",
+      "cta_experience": "experience",
+      "cta_or": "or",
+      "cta_contact": "get in touch"
+    }
+  },
+  "contact": {
+    "page_title": "Let's Connect",
+    "page_subtitle": "Interested in discussing opportunities or collaboration? Reach out directly.",
+    "email": {
+      "title": "Email",
+      "copy": "Copy Email"
+    },
+    "linkedin": {
+      "visit": "Visit Profile"
+    },
+    "github": {
+      "view": "View Projects"
+    },
+    "location": {
+      "title": "Location",
+      "availability": "Open to remote opportunities"
+    },
+    "form": {
+      "title": "Or Send a Message",
+      "subtitle": "Fill out the form below and I'll get back to you as soon as possible.",
+      "name": "Name *",
+      "email": "Email *",
+      "phone": "Phone (optional)",
+      "message": "Message *",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "tagline": "Building scalable solutions with modern technologies"
+  }
+}
