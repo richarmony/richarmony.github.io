@@ -99,6 +99,7 @@
       "title": "Certificaciones Profesionales",
       "issued": "Emitido:",
       "expires": "Expira:",
+      "expired": "Expirado :(",
       "no_expiry": "No Expira",
       "verify": "Verificar Certificado →"
     },
@@ -113,6 +114,7 @@
     },
     "cta": {
       "title": "¿Interesado en trabajar juntos?",
+      "continue": "Continuar a",
       "download": "Descargar CV en PDF",
       "contact": "Contáctame →",
       "coming_soon": "CV en PDF próximamente. Por favor contáctame directamente para una copia actualizada."

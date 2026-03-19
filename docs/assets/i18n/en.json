@@ -99,6 +99,7 @@
       "title": "Professional Certifications",
       "issued": "Issued:",
       "expires": "Expires:",
+      "expired": "Expired :(",
       "no_expiry": "Doesn't Expire",
       "verify": "Verify Certificate →"
     },
@@ -113,6 +114,7 @@
     },
     "cta": {
       "title": "Interested in working together?",
+      "continue": "Continue to",
       "download": "Download Resume PDF",
       "contact": "Let's Talk →",
       "coming_soon": "PDF resume coming soon. Please contact me directly for an updated copy."
@@ -141,7 +143,7 @@
       "visit": "Visit Profile"
     },
     "github": {
-      "view": "View Projects"
+      "view": "Visit Profile"
     },
     "location": {
       "title": "Location",
