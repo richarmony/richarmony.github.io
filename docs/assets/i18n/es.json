@@ -8,21 +8,24 @@
   "home": {
     "hero": {
       "headline": "Desarrollador Fullstack Senior",
-      "subheadline": "6+ años entregando sistemas empresariales",
+      "subheadline": "15+ años entregando sistemas empresariales",
       "location": "Ciudad de México, México",
       "cta_primary": "Ver Experiencia",
       "cta_secondary": "Contactar"
     },
     "about": {
       "title": "Acerca de Mí",
-      "paragraph1": "Soy Ingeniero en Mecatrónica con estudios de Doctorado en Ciencias Computacionales, especializado en desarrollo fullstack para aplicaciones empresariales. Con más de 6 años de experiencia profesional, he construido soluciones escalables para consultoría, SaaS e industrias fintech.",
+      "paragraph1": "Soy Ingeniero en Mecatrónica con estudios de Doctorado en Ciencias Computacionales, especializado en desarrollo fullstack para aplicaciones empresariales. Con más de 15 años de experiencia profesional, he construido soluciones escalables para consultoría, SaaS e industrias fintech.",
       "paragraph2": "Mi carrera incluye la entrega de sistemas de alto impacto en KPMG Technologies (sistemas de detección de fraude, dashboards de ciberseguridad) y SayVU Technologies (plataformas de video en tiempo real, rastreo en interiores, arquitectura dinámica de bases de datos). Destaco en resolver desafíos técnicos complejos, desde modernizar código legacy hasta arquitectar nuevas funcionalidades desde cero.",
       "paragraph3": "Fortalezas principales: Resolución de problemas complejos, diseño de arquitectura de bases de datos y sistemas, implementación de code review y mejores prácticas, y modernización de sistemas legacy."
     },
     "highlights": {
+      "years": "15+ Años",
       "experience": "Experiencia en Desarrollo Empresarial",
+      "technologies": "10+ Tecnologías",
       "stack": "Experiencia Full Stack",
-      "industries": "Consultoría, SaaS, FinTech"
+      "industries": "Múltiples Industrias",
+      "industries_list": "Consultoría, SaaS, FinTech"
     }
   },
   "resume": {
@@ -32,28 +35,42 @@
       "title": "Experiencia Profesional",
       "achievements": "Logros Clave:",
       "sayvu": {
-        "location": "Ciudad de México, México (Remoto)",
+        "location": "Tel Aviv, Israel (Remoto)",
         "description": "Equipo de desarrollo principal para plataforma SaaS empresarial de comunicación por video",
         "achievement1": "Mantuve y depuré <strong>código legacy</strong> (Angular.js, Node.js, CSS, HTML), resolviendo problemas críticos de producción y asegurando estabilidad de la plataforma",
         "achievement2": "Construí <strong>sistema de notificaciones en tiempo real</strong> para videollamadas integrando Agora API con la arquitectura existente, habilitando notificaciones push instantáneas",
         "achievement3": "Diseñé e implementé <strong>esquema de base de datos para formularios dinámicos</strong> (SQL, UML) con capacidad de persistencia de respuestas, soportando flujos de recolección de datos personalizables",
         "achievement4": "Creé <strong>interfaz de rastreo de ubicación en interiores</strong> usando Angular con arquitectura de componentes moderna, mejorando la experiencia de usuario y mantenibilidad",
-        "achievement5": "Automaticé <strong>gestión masiva de usuarios</strong> mediante scripts de importación desde Excel (Node.js, SQL) procesando más de 10,000 usuarios, reduciendo carga de trabajo manual",
+        "achievement5": "Automaticé la <strong>gestión masiva de usuarios</strong> mediante scripts de importación desde Excel (Node.js, SQL) procesando más de 10,000 usuarios, reduciendo carga manual en un 80%",
         "achievement6": "Desarrollé <strong>funcionalidad de generación de reportes PDF</strong> ejecutándose del lado del cliente en el navegador usando Angular.js, eliminando carga del servidor y mejorando el rendimiento",
         "achievement7": "Desarrollé <strong>scripts de auditoría SQL</strong> para identificar y limpiar inconsistencias en base de datos, mejorando integridad de datos"
       },
       "kpmg": {
         "location": "Ciudad de México, México",
         "description": "Consultoría en TI para diversos proyectos empresariales en dominios financieros y de ciberseguridad",
-        "achievement1": "Desarrollé sistema de detección de fraude usando Python, FastAPI y Django para análisis de transacciones financieras, mejorando precisión en detección de amenazas",
-        "achievement2": "Construí dashboard de métricas de ciberseguridad con Node.js para monitoreo de amenazas en tiempo real, proporcionando información accionable a equipos de seguridad",
-        "achievement3": "Consulté múltiples clientes sobre arquitectura e implementación fullstack, entregando soluciones personalizadas alineadas con requerimientos de negocio"
+        "achievement1": "Desarrollé un <strong>sistema de detección de fraude</strong> usando Python, FastAPI y Django para análisis de transacciones financieras, mejorando precisión en detección de amenazas",
+        "achievement2": "Construí un <strong>dashboard de métricas de ciberseguridad</strong> para monitoreo de amenazas en tiempo real, proporcionando información accionable a equipos de seguridad",
+        "achievement3": "Consulté múltiples clientes sobre arquitectura e implementación fullstack, entregando <strong>soluciones personalizadas</strong> alineadas con requerimientos de negocio"
       },
       "itym": {
         "location": "Ciudad de México, México",
         "description": "Desarrollar y mantener la página web de la empresa para marketing y sistema de pagos mediante integración con Stripe.",
-        "achievement1": "Desarrollé la página web de la empresa utilizando tecnologías web modernas, mejorando la experiencia del usuario y la presencia en línea",
-        "achievement2": "Integré el sistema de pagos con Stripe para transacciones en línea, mejorando la satisfacción del cliente y los ingresos"
+        "achievement1": "Desarrollé la <strong>página web de la empresa</strong> utilizando tecnologías web modernas, mejorando la experiencia del usuario y <strong>presencia en línea</strong>",
+        "achievement2": "Integré un <strong>sistema de pagos con Stripe</strong> para transacciones en línea sin problemas, mejorando la satisfacción del cliente y los ingresos"
+      },
+      "estuby": {
+        "location": "Ciudad de México, México",
+        "description": "Diseñé y desarrollé una plataforma web para el sector de salud, gestionando información integral de pacientes, profesionales de la salud y asistentes.",
+        "achievement1": "Construí una <strong>aplicación web responsiva de extremo a extremo</strong> sirviendo a actores del sector salud, habilitando gestión eficiente de registros de pacientes, profesionales de la salud y flujos de trabajo administrativos.",
+        "achievement2": "Construí un <strong>sistema de formularios dinámicos</strong> que se adapta según preferencias de usuario y datos desde una base de datos MSSQL, personalizando la experiencia de usuario y optimizando los flujos de entrada de datos."
+      },
+      "acemex": {
+        "jobtitle": "Ingeniero de Servicio y Soporte de TI",
+        "location": "Ciudad de México, México",
+        "description": "Proporcioné ingeniería de servicio para sistemas de básculas industriales y soporte de TI para operaciones tecnológicas de la empresa.",
+        "achievement1": "Realicé <strong>instalación, calibración y solución de problemas de sistemas de pesaje industrial</strong>, asegurando mediciones precisas y cumplimiento con estándares de la industria",
+        "achievement2": "Desarrollé <strong>programas de capacitación de usuarios y documentación técnica</strong>, creando manuales de usuario que mejoraron la incorporación de clientes y redujeron solicitudes de soporte",
+        "achievement3": "<strong>Administré entorno Windows Server 2012</strong>, gestionando acceso de usuarios, respaldos automáticos, actualizaciones del sistema y configuraciones de red para mantener la infraestructura de TI confiable"
       }
     },
     "skills": {
@@ -74,12 +91,21 @@
         "title": "Cloud y DevOps"
       },
       "tools": {
-        "title": "Herramientas e Integraciones"
+        "title": "Herramientas e Integración"
+      },
+      "spoken_languages": {
+        "title": "Idiomas",
+        "spanish": "Español",
+        "english": "Inglés",
+        "english_cert": "EF Set - C2 Proficient 83/100 (Ago 2022)",
+        "german": "Alemán",
+        "french": "Francés"
       },
       "level": {
         "expert": "Experto",
         "advanced": "Avanzado",
-        "intermediate": "Intermedio"
+        "intermediate": "Intermedio",
+        "native": "Nativo"
       },
       "competencies": {
         "title": "Competencias Senior",

@@ -8,21 +8,24 @@
   "home": {
     "hero": {
       "headline": "Senior Fullstack Developer",
-      "subheadline": "6+ years delivering enterprise systems",
+      "subheadline": "15+ years delivering enterprise systems",
       "location": "Mexico City, Mexico",
       "cta_primary": "View Experience",
       "cta_secondary": "Get in Touch"
     },
     "about": {
       "title": "About Me",
-      "paragraph1": "I'm a Mechatronics Engineer with PhD studies in Computer Science, specializing in fullstack development for enterprise applications. With over 6 years of professional experience, I've built scalable solutions for consulting, SaaS, and fintech industries.",
+      "paragraph1": "I'm a Mechatronics Engineer with PhD studies in Computer Science, specializing in fullstack development for enterprise applications. With over 15 years of professional experience, I've built scalable solutions for consulting, SaaS, and fintech industries.",
       "paragraph2": "My career includes delivering high-impact systems at KPMG Technologies (fraud detection systems, cybersecurity dashboards) and SayVU Technologies (real-time video platforms, indoor location tracking, dynamic database architecture). I excel at solving complex technical challenges, from modernizing legacy codebases to architecting new features from the ground up.",
       "paragraph3": "Core strengths: Complex problem resolution, database and system architecture design, code review and best practices implementation, and legacy system modernization."
     },
     "highlights": {
+      "years": "15+ Years",
       "experience": "Enterprise Development Experience",
+      "technologies": "10+ Technologies",
       "stack": "Full Stack Expertise",
-      "industries": "Consulting, SaaS, FinTech"
+      "industries": "Multiple Industries",
+      "industries_list": "Consulting, SaaS, FinTech"
     }
   },
   "resume": {
@@ -32,28 +35,42 @@
       "title": "Professional Experience",
       "achievements": "Key Achievements:",
       "sayvu": {
-        "location": "Mexico City, Mexico (Remote)",
+        "location": "Tel Aviv, Israel (Remote)",
         "description": "Core development team for enterprise SaaS video communication platform",
         "achievement1": "Maintained and debugged <strong>legacy codebase</strong> (Angular.js, Node.js, CSS, HTML), resolving critical production issues and ensuring platform stability",
         "achievement2": "Built <strong>real-time video call notification system</strong> integrating Agora API with existing architecture, enabling instant push notifications",
         "achievement3": "Designed and implemented <strong>dynamic forms database schema</strong> (SQL, UML) with response persistence capability, supporting customizable data collection workflows",
         "achievement4": "Created <strong>indoor location tracking interface</strong> using Angular with modern component architecture, improving user experience and maintainability",
-        "achievement5": "Automated <strong>bulk user management</strong> via Excel import scripts (Node.js, SQL) processing 10,000+ users, reducing manual workload",
+        "achievement5": "Automated <strong>bulk user management</strong> via Excel import scripts (Node.js, SQL) processing 10,000+ users, reducing manual workload by 80%",
         "achievement6": "Developed <strong>PDF report generation feature</strong> running client-side in browser using Angular.js, eliminating server load and improving performance",
         "achievement7": "Developed <strong>SQL audit scripts</strong> to identify and clean database inconsistencies, improving data integrity"
       },
       "kpmg": {
         "location": "Mexico City, Mexico",
         "description": "IT consulting for diverse enterprise projects across financial and cybersecurity domains",
-        "achievement1": "Developed fraud detection system using Python, FastAPI, and Django for financial transactions analysis, improving threat detection accuracy",
-        "achievement2": "Built cybersecurity metrics dashboard with Node.js for real-time threat monitoring, providing actionable insights to security teams",
-        "achievement3": "Consulted multiple clients on fullstack architecture and implementation, delivering tailored solutions aligned with business requirements"
+        "achievement1": "Developed <strong>fraud detection system</strong> using Python, FastAPI, and Django for financial transactions analysis, improving threat detection accuracy",
+        "achievement2": "Built <strong>cybersecurity metrics dashboard</strong> for real-time threat monitoring, providing actionable insights to security teams",
+        "achievement3": "Consulted multiple clients on fullstack architecture and implementation, delivering <strong>tailored solutions</strong> aligned with business requirements"
+      },
+      "estuby": {
+        "location": "Mexico City, Mexico",
+        "description": "Designed and developed a web platform for the healthcare sector, managing comprehensive information for patients, health professionals, and assistants.",
+        "achievement1": "Built <strong>end-to-end responsive web application</strong> serving healthcare stakeholders, enabling efficient management of patient records, health professional profiles, and administrative workflows.",
+        "achievement2": "Built <strong>dynamic form system</strong> that adapts based on user preferences and data retrieved from MSSQL database, personalizing user experience and streamlining data entry workflows."
       },
       "itym": {
         "location": "Mexico City, Mexico",
         "description": "Develop and maintain the company webpage for marketing and payment system via Stripe integration.",
-        "achievement1": "Developed company webpage using modern web technologies, enhancing user experience and online presence",
-        "achievement2": "Integrated Stripe payment system for seamless online transactions, improving customer satisfaction and revenue"
+        "achievement1": "Developed <strong>company webpage</strong> using modern web technologies, enhancing user experience and <strong>online presence</strong>",
+        "achievement2": "Integrated <strong>Stripe payment system</strong> for seamless online transactions, improving customer satisfaction and revenue"
+      },
+      "acemex": {
+        "jobtitle": "Service Engineer & IT Support",
+        "location": "Mexico City, Mexico",
+        "description": "Provided service engineering for industrial scale systems and IT support for company-wide technology operations.",
+        "achievement1": "Performed <strong>installation, calibration, and troubleshooting of industrial scale systems</strong>, ensuring accurate measurements and compliance with industry standards",
+        "achievement2": "Developed <strong>comprehensive user training programs and technical documentation </strong>, creating user manuals that improved client onboarding and reduced support requests",
+        "achievement3": "<strong>Administered Windows Server 2012 environment</strong>, managing user access, automatic backups, system updates, and network configurations to maintain reliable IT infrastructure"
       }
     },
     "skills": {
@@ -76,10 +93,19 @@
       "tools": {
         "title": "Tools & Integrations"
       },
+      "spoken_languages": {
+        "title": "Languages",
+        "spanish": "Spanish",
+        "english": "English",
+        "english_cert": "EF Set - C2 Proficient 83/100 (Aug 2022)",
+        "german": "German",
+        "french": "French"
+      },
       "level": {
         "expert": "Expert",
         "advanced": "Advanced",
-        "intermediate": "Intermediate"
+        "intermediate": "Intermediate",
+        "native": "Native"
       },
       "competencies": {
         "title": "Senior Competencies",
