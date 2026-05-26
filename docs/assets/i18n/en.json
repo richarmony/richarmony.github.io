@@ -168,6 +168,9 @@
     "linkedin": {
       "visit": "Visit Profile"
     },
+    "whatsapp": {
+      "visit": "Chat on WhatsApp"
+    },
     "github": {
       "view": "Visit Profile"
     },
